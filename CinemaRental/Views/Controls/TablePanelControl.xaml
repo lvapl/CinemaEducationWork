@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="CinemaRental.Views.Controls.TablePanelControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:local="clr-namespace:CinemaRental.Views.Controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!--#region Header-->
+        <DockPanel>
+            <StackPanel Orientation="Horizontal">
+                <Image Height="80"
+                       Width="80"/>
+                <TextBlock Text="sdikhgfosihg"
+                           VerticalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel FlowDirection="RightToLeft"
+                        Orientation="Horizontal">
+                <Button Style="{StaticResource ControlButton}">
+                    <icon:PackIconMaterial Kind="BucketOutline"/>
+                </Button>
+                <Button Style="{StaticResource ControlButton}">
+                    <icon:PackIconMaterial Kind="Pencil"/>
+                </Button>
+                <Button Style="{StaticResource ControlButton}">
+                    <icon:PackIconMaterial Kind="LayersPlus"/>
+                </Button>
+            </StackPanel>
+        </DockPanel>
+        <!--#endregion-->
+        
+        <!--#region Table-->
+        <DataGrid Grid.Row="1"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"/>
+        <!--#endregion-->
+    </Grid>
+</UserControl>

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ioWRiSx5AZ4fN+yX9rOnXVLB52UfYNI/uBNCNdnSsETvIx24xt1LeoitqjuLmOl1bBxwT/aK4CnzHYvI6mtgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\clash\\source\\repos\\CinemaRental\\CinemaRental\\CinemaRental.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clash\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512",
+    "C:\\Users\\clash\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.26\\microsoft.windows.sdk.net.ref.10.0.22621.26.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://packages.nuget.org/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\CinemaRental.csproj.AssemblyReference.cache
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\Styles\Buttons.baml
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\Styles\Colors.baml
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\Styles\TextBlocks.baml
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\Views\Controls\ReportControl.g.cs
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\Views\Controls\TablePanelControl.g.cs
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\Views\Tabs\MarketingPurchasingDepartment.g.cs
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\Views\Tabs\RentalDepartment.g.cs
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\Views\Tabs\Reports.g.cs
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\CinemaRental_MarkupCompile.cache
+C:\Users\clash\source\repos\CinemaRental\CinemaRental\obj\Debug\net6.0-windows\CinemaRental_MarkupCompile.lref
